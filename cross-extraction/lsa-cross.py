@@ -22,7 +22,7 @@ nltk.download('punkt')
 
     Input : A document in string format 
     Output: None
-    Return Value : Document data ready for processing
+    Return Value : Document data ready for processing, and only sentence tokenized version 
 """
 def loadDocument(document:str) -> list : 
 
@@ -51,7 +51,7 @@ def loadDocument(document:str) -> list :
 
     Input: Formatted list of document data
     Output: None
-    Return Value: The summary text as a string
+    Return Value: The summary text as a string, and the summarization percentage
 """
 def lsa_cross(document:str, num_concepts:int=-1, ratio_summarize:int=0.3) -> str : 
 
