@@ -3,7 +3,7 @@
 ## Background
 
 This is a repository implementing Latent Semantic Summarization from 
-[this](https://www.researchgate.net/publication/220195824_Text_summarization_using_Latent_Semantic_Analysis) paper and some form of abstractive summarization using [this](https://towardsdatascience.com/abstractive-summarization-using-pytorch-f5063e67510?gif=true) short guide. You can find a copy of my report summarizing understanding of the implementation and my comparison between the two methods in the repo
+[this](https://www.researchgate.net/publication/220195824_Text_summarization_using_Latent_Semantic_Analysis) paper and some form of abstractive summarization using [this](https://towardsdatascience.com/abstractive-summarization-using-pytorch-f5063e67510?gif=true) short guide. You can find a copy of my report summarizing understanding of the implementation and my comparison between the two methods in the repo, and you can acces my video demoing my implementation [here](https://drive.google.com/file/d/1fxAqbIHXi9UkdUKIJLHCdk0PNp6K1faJ/view?usp=sharing)
 
 ## Requirements
 
